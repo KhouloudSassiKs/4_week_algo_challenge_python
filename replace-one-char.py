@@ -1,4 +1,4 @@
-def replace_character(input_string: str, c1: str, c2: str) -> str:
+def replace_character(input_string, c1, c2):
     """
     Replace all occurrences of character `c1` in `input_string` with `c2`.
 
