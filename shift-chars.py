@@ -1,4 +1,4 @@
-def solution(s: str) -> str:
+def solution(s):
     """
     Shift each alphabetical character by 1.
     - 'a'..'y' → next letter
