@@ -1,4 +1,4 @@
-def solution(s: str) -> list[int]:
+def solution(s):
     """
     Return a list of 0 based positions of the vowels in the input string.
 
