@@ -1,4 +1,4 @@
-def solution(input_string: str) -> str:
+def solution(input_string):
     """
     Transform each letter in the string:
     - Lowercase letters → Uppercase
