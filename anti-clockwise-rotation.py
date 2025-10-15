@@ -4,7 +4,7 @@ def anti_rotate_array(nums: List[int], k: int) -> List[int]:
     """
     Rotates the array `nums` anti-clockwise (to the left) by `k` steps.
     The rotation is done inplace.
-    K can be bigger than len(nums)
+    K can be bigger than len(nums).
     Args:
         nums (List[int]): The list of integers to rotate.
         k (int): The number of rotation steps.
